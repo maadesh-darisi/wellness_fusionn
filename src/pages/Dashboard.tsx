@@ -31,7 +31,7 @@ function Dashboard() {
   const [wellnessScore, setWellnessScore] = useState(0);
 
   const handleMentalWellness = () => {
-    window.open('https://mymithra-chat.netlify.app/', '_blank', 'noopener,noreferrer');
+    window.open('https://mithra-chatbot.vercel.app/', '_blank', 'noopener,noreferrer');
   };
 
   const getMoodRecommendations = () => {
