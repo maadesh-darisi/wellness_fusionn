@@ -40,9 +40,9 @@ Together, these features aim to create a seamless wellness experience addressing
 
 ### Backend & AI
 - Python  
-- Hugging Face Transformers (Gemini API, BERT for chatbot)  
+- Gemini API for chatbot
 - TensorFlow / PyTorch (for training custom models)  
-- Flask / FastAPI (backend API serving chatbot and yoga content)  
+- FastAPI (backend API serving chatbot and yoga content)  
 
 ### Frontend
 - HTML, CSS, JavaScript  
@@ -51,12 +51,12 @@ Together, these features aim to create a seamless wellness experience addressing
 ### Data & APIs
 - Custom mental health conversation dataset  
 - Yoga pose data curated from trusted sources  
-- OpenRouter API (optional for advanced NLP features)  
+- Gemini API (optional for advanced NLP features)  
 
 ### Deployment & DevOps
 - Git & GitHub for version control  
-- Hugging Face Spaces (chatbot deployment)  
-- Netlify / Vercel (frontend hosting)
+- Vercel (chatbot deployment)  
+- Vercel (frontend hosting)
 
 ---
 
